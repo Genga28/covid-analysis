@@ -4,6 +4,7 @@
 Covid19 Dashboard built in Python and the Streamlit library to visualize Excel data.
 
 ## Run the app
+
 ```Powershell
 # conda terminal
 streamlit run covid.py
@@ -12,10 +13,19 @@ streamlit run covid.py
 
 https://genga28-covid-dash-board.streamlit.app/
 
+```
 ## Screenshot
 
+![image](https://user-images.githubusercontent.com/82211151/213080635-1afffc04-53f3-44fb-9d29-3034df74dcd8.png)
 
-![image](https://user-images.githubusercontent.com/82211151/213078895-03962a00-903a-47d3-804a-d374fca75fcf.png)
+
+
+
+
+
+
+
+
 
 
 
