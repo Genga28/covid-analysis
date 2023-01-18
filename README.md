@@ -8,7 +8,9 @@ Covid19 Dashboard built in Python and the Streamlit library to visualize Excel d
 # conda terminal
 streamlit run covid.py
 
+##Dashboard
 
+https://genga28-covid-dash-board.streamlit.app/
 
 ## Screenshot
 
